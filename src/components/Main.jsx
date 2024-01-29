@@ -23,8 +23,10 @@ function Main() {
 },[])
    
   return (
-    <div style={{backgroundImage:'url(https://static.wixstatic.com/media/565794_76c1fd4ab0fc48e5947f0d9789a6af80~mv2.png/v1/fill/w_3840,h_2160,al_c/wS%20Material%20Desktop%20Wallpaper%20-%2010.png)',backgroundSize:'cover',height:'650px',color:'white'}} >
-
+    <div style={{backgroundImage:'url(https://static.wixstatic.com/media/565794_76c1fd4ab0fc48e5947f0d9789a6af80~mv2.png/v1/fill/w_3840,h_2160,al_c/wS%20Material%20Desktop%20Wallpaper%20-%2010.png)',backgroundSize:'cover',height:'700px',color:'white'}} >
+       <div className='p-3'>
+        <h3><b>WEATHER.COM</b></h3>
+       </div>
         <div>
         <div className='p-5'>
         <InputGroup  >
